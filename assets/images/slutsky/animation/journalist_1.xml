@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="journalist_1.png">
+	<!--
+	Created with ShoeBox
+	http://renderhjs.net/shoebox/
+	-->
+	<SubTexture name="journalist_01.png"	x="231"	y="0"	width="231"	height="435" frameX="-0" frameY="-0" frameWidth="231" frameHeight="435"/>
+	<SubTexture name="journalist_01_shame.png"	x="0"	y="0"	width="231"	height="435" frameX="-0" frameY="-0" frameWidth="231" frameHeight="435"/>
+</TextureAtlas>

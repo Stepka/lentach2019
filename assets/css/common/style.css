@@ -1,0 +1,25 @@
+#magickBG {
+    background-image: url("../../images/common/HakuT9v3388.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+
+    display:block;
+    position:fixed;
+    left:0;right:0;
+    top:0;bottom:0;
+}
+
+body {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+iframe {
+    display:block;
+    position:fixed;
+    left:0;right:0;
+    top:0;bottom:0;
+    width:960px; /*Тут ставим Вашу ширину под фрейм*/
+    height:540px;
+    margin:auto!important;
+}

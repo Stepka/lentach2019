@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="slutsky.png">
+	<!--
+	Created with ShoeBox
+	http://renderhjs.net/shoebox/
+	-->
+	<SubTexture name="01.png"	x="960"	y="540"	width="960"	height="540" frameX="-0" frameY="-0" frameWidth="960" frameHeight="540"/>
+	<SubTexture name="02.png"	x="960"	y="0"	width="960"	height="540" frameX="-0" frameY="-0" frameWidth="960" frameHeight="540"/>
+	<SubTexture name="03.png"	x="960"	y="1080"	width="960"	height="540" frameX="-0" frameY="-0" frameWidth="960" frameHeight="540"/>
+	<SubTexture name="04.png"	x="0"	y="540"	width="960"	height="540" frameX="-0" frameY="-0" frameWidth="960" frameHeight="540"/>
+	<SubTexture name="05.png"	x="0"	y="0"	width="960"	height="540" frameX="-0" frameY="-0" frameWidth="960" frameHeight="540"/>
+	<SubTexture name="06.png"	x="0"	y="1080"	width="960"	height="540" frameX="-0" frameY="-0" frameWidth="960" frameHeight="540"/>
+</TextureAtlas>
